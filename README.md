@@ -1,6 +1,6 @@
 # 📑 Resume
 
-My Personal CV written in LaTeX using [Awesome CV](https://github.com/posquit0/Awesome-CV)
+My Personal CV written in LaTeX using [Awesome CV](https://github.com/posquit0/Awesome-CV).
 
 ## 🎑 Preview
 
