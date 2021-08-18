@@ -2,6 +2,8 @@
 
 My Personal CV written in LaTeX using [Awesome CV](https://github.com/posquit0/Awesome-CV).
 
+⤵ [Download](https://github.com/borjapazr/resume/raw/main/documentation/resume.pdf)
+
 ## 🎑 Preview
 
 ![Resume Page 1](documentation/resume-1.png)
@@ -10,7 +12,7 @@ My Personal CV written in LaTeX using [Awesome CV](https://github.com/posquit0/A
 
 ## 🤩 Inspiration
 
-* <https://github.com/posquit0/Awesome-CV> Thank you very much for your great work!
+- <https://github.com/posquit0/Awesome-CV> Thank you very much for your great work!
 
 ## ⚖️ License
 
