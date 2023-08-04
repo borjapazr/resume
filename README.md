@@ -9,6 +9,7 @@ My Personal CV written in LaTeX using [Awesome CV](https://github.com/posquit0/A
 ![Resume Page 1](documentation/resume-1.png)
 ![Resume Page 2](documentation/resume-2.png)
 ![Resume Page 3](documentation/resume-3.png)
+![Resume Page 4](documentation/resume-4.png)
 
 ## 🤩 Inspiration
 
